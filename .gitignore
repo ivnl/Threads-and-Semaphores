@@ -39,6 +39,25 @@ $RECYCLE.BIN/
 .Trashes
 .VolumeIcon.icns
 
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+out/
+artifacts/
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/ 
+
 # Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
